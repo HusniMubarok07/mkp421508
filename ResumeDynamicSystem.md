@@ -1,10 +1,10 @@
 <h1>Resume Dinamic System</h1>
 <table border="0">
 <tr>
-<h2><td>Nama</td> <td>:</td> <td>HUSNI MUBAROK</td></h2>
+<td>Nama</td> <td>:</td> <td>HUSNI MUBAROK</td>
 </tr>
 <tr>
-<h2><td>Nim</td> <td>:</td> <td>1821500002</td></h2>
+<td>Nim</td> <td>:</td> <td>1821500002</td>
 <hr>
 </tr>
  <tr>
