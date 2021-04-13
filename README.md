@@ -4,8 +4,7 @@
 <td>Nama</td> <td>:</td> <td>HUSNI MUBAROK</td>
 </tr>
 <tr>
-<h2><td>Nim</td> <td>:</td> <td>1821500002</td></h2>
-<hr>
+<td>Nim</td> <td>:</td> <td>1821500002</td>
 </tr>
 </table>
 
