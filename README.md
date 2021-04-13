@@ -1,5 +1,5 @@
 <h1>Resume Dinamic System</h1>
-<table border="0">
+<table>
 <tr>
 <h2><td>Nama</td> <td>:</td> <td>HUSNI MUBAROK</td></h2>
 </tr>
