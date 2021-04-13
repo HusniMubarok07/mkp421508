@@ -1,13 +1,13 @@
 <h1>Resume Dinamic System</h1>
 <table border="0">
 <tr>
-<td>Nama</td> <td>:</td> <td>HUSNI MUBAROK</td>
+<td>Nama</td> <td>:</td> <td>HUSNI MUBAROK           </td>
 </tr>
 <tr>
-<td>Nim</td> <td>:</td> <td>1821500002</td>
+<td>Nim</td> <td>:</td> <td>1821500002               </td>
 </tr>
 <tr>
-<td>Prodi</td> <td>:</td> <td>Teknologi Informasi</td>
+<td>Prodi</td> <td>:</td> <td>Teknologi Informasi (A)</td>
 </tr>
 </table>
 
